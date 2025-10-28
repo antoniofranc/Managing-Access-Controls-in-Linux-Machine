@@ -126,6 +126,7 @@ The password that you type will not be visible.
 
 #As described above, a root user can create multiple useraccounts on the same machine with different level of access permissions, thereby, preventing unauthorized access to the system and resources.
 
+-----
 📝 Use Cases
 This project is applicable to:
 - Corporate IT security implementations
